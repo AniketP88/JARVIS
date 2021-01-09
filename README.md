@@ -28,15 +28,15 @@ pip install wikipedia
 ```
 pip install geocoder
 ```
-### Other Required Packages:
-```
-import datetime
-import webbrowser
-import os
-import smtplib
-import requests
-import json
-```
+### Other Requirements:
+
+- datetime
+- webbrowser
+- os
+- smtplib
+- requests
+- json
+
 **JARVIS performs few tasks:**
 
 - To search something on Wikipedia 
