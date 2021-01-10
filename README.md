@@ -1,6 +1,6 @@
 # JARVIS
 ## JARVIS VIRTUAL ASSISTANT
-*Note*-This virtual assistant can implemented on CLI of your system.
+*Note*-This virtual assistant can be implemented on CLI of your system.
 
 <img src="images/Screenshot (51).png" width="700">
 
