@@ -1,5 +1,6 @@
 # JARVIS
 ## JARVIS VOICE ASSISTANT
+*Note*-This virtual assistant can implemented on CLI of your system.
 
 ## Requirements:
 Make sure that you have installed following packages on your system
