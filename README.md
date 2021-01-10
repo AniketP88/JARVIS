@@ -1,8 +1,9 @@
 # JARVIS
-## JARVIS VOICE ASSISTANT
+## JARVIS VIRTUAL ASSISTANT
 *Note*-This virtual assistant can implemented on CLI of your system.
 
 <img src="images/Screenshot (51).png" width="700">
+
 ## Requirements:
 Make sure that you have installed following packages on your system
 ### PyAudio (Required to get microphone input)
@@ -10,6 +11,10 @@ Make sure that you have installed following packages on your system
 
 ```
 pip install PyAudio
+```
+### pypiwin32
+```
+pip install pypiwin32.
 ```
 ### Speech Recognition( perform speech-to-text operation)
 
@@ -41,16 +46,14 @@ pip install geocoder
 
 **JARVIS performs few tasks:**
 
-- To search something on Wikipedia 
-- To open YouTube site in a web-browser
-- To open Google site in a web-browser
+- It can do Wikipedia searches for you. 
+- It is capable of opening websites like Google, Youtube in a web browser.
 - To play music 
 - To know the current time
 - To open the VS Code Program
-- To open github
+- To open github in web browser
 - To open stackoverflow
-- To send Email
+- It can send emails for you.
 - To know the current weather report
 
-Explore and try to add other functionalities to J.A.R.V.I.S.
-You can add other functionalities to this virtual assistant.
+**A lot can done on this so you can explore and add other functionalities to this virtual assistant.**
