@@ -2,6 +2,7 @@
 ## JARVIS VOICE ASSISTANT
 *Note*-This virtual assistant can implemented on CLI of your system.
 
+<img src="images/Screenshot (51).png" width="700">
 ## Requirements:
 Make sure that you have installed following packages on your system
 ### PyAudio (Required to get microphone input)
